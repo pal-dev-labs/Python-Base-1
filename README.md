@@ -8,11 +8,11 @@ Docente: Prof. Giandomenico Palumbo
 
 **Il contenuto di questo corso evolve in linea con l'evoluzione tecnologica**
 
-DATA INIZIO CORSO: 01 OTTOBRE 2023
+DATA INIZIO CORSO: 01 OTTOBRE 2024
 
-DATA CONCLUSIONE CORSO: 30 MAGGIO 2024
+DATA CONCLUSIONE CORSO: 30 MAGGIO 2025
 
-presso il Laboratorio di Inform atica, sede centrale IIS via Roma 298
+presso il Laboratorio di Informatica, sede centrale IIS via Roma 298
 
 # Strumenti utilizzati
 Per seguire il corso è possibile utilizzare un laptop personale.
