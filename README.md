@@ -16,7 +16,7 @@ presso il Laboratorio di Informatica, sede centrale IIS via Roma 298
 
 # Strumenti utilizzati
 Per seguire il corso è possibile utilizzare un laptop personale.
-In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator). Per l'installazione potete seguire le video-istruzioni pubblicate sul sito classroom del corso (vedi sotto) oppure visionabili sul mio canale YouTube https://www.youtube.com/channel/UCvE1MUP-vbzUQnV_N4nbPfA
+In questo caso è necessario installare sul proprio laptop la suite **Anaconda Navigator** (scaricabile dal sito web https://anaconda.org/anaconda/anaconda-navigator). Per l'installazione potete seguire le video-istruzioni pubblicate sul sito classroom del corso (vedi sotto) oppure visionabili sul mio canale YouTube [https://www.youtube.com/channel/UCvE1MUP-vbzUQnV_N4nbPfA](https://www.youtube.com/watch?v=_mo3EP4Hy-k)
 
 Coloro che non dispongono di un laptop personale possono utilizzare i laptop del laboratorio di informatica. L'ambiente utilizzato è **Google Colab** che è fruibile con un browser (Chrome per es.) da un qualsiasi PC, direttamente dall'indirizzo https://colab.research.google.com/ 
 
